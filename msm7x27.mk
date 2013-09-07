@@ -57,7 +57,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio_policy.msm7x27 \
-    audio.primary.msm7x27 \
+    audio.primary \
     libtinyalsa \
     libaudioutils
 
